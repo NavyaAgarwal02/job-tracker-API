@@ -47,7 +47,7 @@ src/
 ### 1️⃣ Clone Repository
 
 
-git clone https://github.com/rakibfeb/job-tracker-api.git
+git clone https://github.com/NavyaAgarwal02/job-tracker-API.git
 cd job-tracker-api
 
 ## Install Dependencies
